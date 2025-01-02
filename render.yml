@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-app
+    env: docker
+    plan: free
+    image: dydarsfhjjhss/newtestmltb001:charantejproject01
+    autoDeploy: true
